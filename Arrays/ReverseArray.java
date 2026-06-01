@@ -9,7 +9,6 @@ public class  ReverseArray{
         System.out.println("Enter the value of arrays:");
         for(int i=0;i<=size-1;i++){
             array[i]=sc.nextInt();
-
         }
         int[] reverse_array=new int[size];
         for(int i=size-1;i>=0;i--){
