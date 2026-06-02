@@ -1,0 +1,25 @@
+----MONDAY 25-05-2026-----
+1.Sum of two variables
+2.multiplication
+3.Swaping
+
+----TUESDAY 26-05=2026----
+1.size of datatypes
+2.EvenOdd
+
+-----WEDNESDAY 27-05-2026-----
+LITERALS FOLDER
+1.IntegralsLiteralForms
+2.AsciiValueFounder
+
+----THURSDAY 28-05-2026----
+3.Character checker
+4.Temperature converter(F=(9.0/5)*c+32)
+
+-----SATURDAY30-05-2026-----
+ARRAYS FOLDER
+1.SumandAverage
+2.EvenOddCount
+
+------SUNDAY 31-05-2026----
+3.Reversearray

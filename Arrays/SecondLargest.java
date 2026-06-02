@@ -24,7 +24,7 @@ public class SecondLargest {
              }
              i++;
         }
-        System.out.println("second largest: "+array[1]);   
+        System.out.println("second largest element is : "+array[1]);   
          sc.close();   
         }
 
